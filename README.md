@@ -12,11 +12,6 @@
 <!--   <a href="https://twitter.com/AkhileshThite_" target="_blank"><img src="https://img.shields.io/twitter/follow/akhileshthite_?style=social" alt="twitter" /></a> -->
 </div>
 
-## Article
-`Build a Social Media dApp & Deploy it on Polygon`: Article [link](https://learn.figment.io/tutorials/build-a-social-media-dapp-and-deploy-it-on-polygon).
-
-## Inspired by
-**Dapp University** YouTube: Video [link](https://www.youtube.com/watch?v=OLsteD3xkPQ&ab_channel=DappUniversity).
 
 ## Technical Details
 **Languages:**
