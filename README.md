@@ -61,6 +61,5 @@ npm start
 ```
 
 ## License
-[MIT license](https://github.com/AkhileshThite/DTube/blob/main/LICENSE)
+MIT license
 
-Don't forget to leave a 🌟.
