@@ -6,12 +6,6 @@
   <p align="center">Website: <a href="https://calm-sound-7956.on.fleek.co/"></a>https://dtube-eth.on.fleek.co</p>
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=AkhileshThite.dtube" alt="visitors" />
-  <img src="https://img.shields.io/github/v/release/AkhileshThite/DTube?color=1FC71F" alt="GitHub release" />
-<!--   <a href="https://twitter.com/AkhileshThite_" target="_blank"><img src="https://img.shields.io/twitter/follow/akhileshthite_?style=social" alt="twitter" /></a> -->
-</div>
-
 
 ## Technical Details
 **Languages:**
