@@ -3,7 +3,7 @@
 
 <p aign="center">
   <p align="center">Decentralized video sharing & social media platform on Ethereum blockchain.</p>
-  <p align="center">Website: <a href="https://calm-sound-7956.on.fleek.co/"></a>Dtube</p>
+  <p align="center">Website: <a href="https://calm-sound-7956.on.fleek.co/"></a>https://calm-sound-7956.on.fleek.co/</p>
 </p>
 
 
