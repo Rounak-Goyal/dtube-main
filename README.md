@@ -1,6 +1,3 @@
-<p align="center">
-  <img align="center" src="https://github.com/AkhileshThite/DTube/blob/main/src/logo.png" width="200" height="200"></img>
-</p>
 
 <h1 align="center">DTube</h1>
 
